@@ -1,7 +1,3 @@
-" Borrowed from http://gergap.wordpress.com/2009/05/29/minimal-vimrc-for-cc-developers/
-
-execute pathogen#infect()
-
 " set UTF-8 encoding
 set enc=utf-8
 set fenc=utf-8
