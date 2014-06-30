@@ -19,3 +19,5 @@ altscreen on
 # shell -$SHELL
 
 multiuser on
+
+setenv SSH_AUTH_SOCK $HOME/.ssh/ssh_auth_sock
