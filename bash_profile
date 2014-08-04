@@ -1,6 +1,6 @@
 #=== start of automatically maintained lines (do not delete)===
 # .bashrc, sourced by interactive non-login shells (also called by .bash_profile)
-export PATH=/sbin:/usr/sbin:/bin:/usr/bin:/home/y/bin:/usr/local/bin:/usr/X11R6/bin:~/bin
+export PATH=/sbin:/usr/sbin:/bin:/usr/bin:/home/y/bin:/home/y/bin64:/usr/local/bin:/usr/X11R6/bin:~/bin
 umask 022
 export CVSROOT=vault.yahoo.com:/CVSROOT
 export CVS_RSH=yssh

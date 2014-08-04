@@ -1,3 +1,6 @@
+unsetenv SSH_AUTH_SOCK
+setenv SSH_AUTH_SOCK $HOME/.ssh/ssh_auth_sock
+
 term xterm
 # fix scrolling 
 termcapinfo xterm* ti@:te@
@@ -20,4 +23,3 @@ altscreen on
 
 multiuser on
 
-setenv SSH_AUTH_SOCK $HOME/.ssh/ssh_auth_sock
